@@ -1,0 +1,6 @@
+2023.12.13 23:15:07 INFO  Started: Metals version 1.1.0 in folders '/Users/akankshawork/Desktop/aishu/daily_meal_planner' for client Visual Studio Code 1.81.1.
+2023.12.13 23:15:08 WARN  Build server is not auto-connectable.
+2023.12.13 23:15:08 WARN  no build tool detected in workspace '/Users/akankshawork/Desktop/aishu/daily_meal_planner'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.12.13 23:21:23 INFO  Shutting down server
+2023.12.13 23:21:23 INFO  shutting down Metals
+2023.12.13 23:21:23 INFO  Exiting server
